@@ -18,6 +18,7 @@ The project was developed by PyQt5 mainly, and the data referring was created by
 
 ``
 pip install -r requirements.txt
+
 cd libs && python main.py
 ``
 
